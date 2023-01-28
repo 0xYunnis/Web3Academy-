@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-//powered by Ziyao Jia Dev.college
+//powered by 0xyunnis
 /*
 LESSONS 1
 在这节课中，你将学到solidity的性质，变量与部分规则
